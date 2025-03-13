@@ -1,7 +1,7 @@
 # Hallo, ich bin Michael 👋
 
 ## Über mich
-Ich lebe in der schönen Schweiz 🇨🇭 und arbeite als ICT Application Manager im Bereich PLM. Mein Beruf ist nicht nur ein Job, sondern auch meine Leidenschaft.
+Ich lebe in der schönen Schweiz 🇨🇭 und arbeite als ICT Application Manager im Bereich PLM. ich habe mir die Domain (haeberli.ai)[haeberli.ai] gekauft und freu mich an dieser zu tüfteln
 
 ## Meine Interessen
 - 💻 **Programmierung**: Besonders Java hat es mir angetan. Ich liebe es, komplexe Probleme zu lösen und dabei kreative Lösungen zu entwickeln.
